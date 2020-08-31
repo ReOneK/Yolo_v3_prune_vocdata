@@ -1,0 +1,2 @@
+# Yolo_v3_prune_vocdata
+使用voc数据格式对yolov3剪枝量化
