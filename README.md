@@ -72,9 +72,7 @@ python3 prune_tiny_yolo.py
 - [x] `tqdm`
 
 
-## 四、原作者链接
-- [x] https://github.com/Lam1360/YOLOv3-model-pruning
-- [x] https://github.com/coldlarry/YOLOv3-complete-pruning
+
 
 
 
